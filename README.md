@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/CarlosHerazo">HerazoDev</a> 👋</h1>
 </div>
-<img src="">
+<img src="https://certitec.eu/wp-content/uploads/2023/03/OOT.jpg">
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/CarlosHerazo)
 
