@@ -1,7 +1,8 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">HerazoDev</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/CarlosHerazo">HerazoDev</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="![image](https://github.com/CarlosHerazo/CarlosHerazo/assets/102492748/f2d0e651-34e6-47f6-9b5d-471b0d54cf1f)
+">
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/CarlosHerazo)
 
