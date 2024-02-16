@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/CarlosHerazo">HerazoDev</a> 👋</h1>
 </div>
-<img src="https://ibb.co/5krPbH4">
+<a href="https://ibb.co/5krPbH4"><img src="https://i.ibb.co/68HkjCw/HERAZODEV.png" alt="HERAZODEV" border="0"></a>
 
 [![GitHub followers]()](https://github.com/CarlosHerazo)
 
