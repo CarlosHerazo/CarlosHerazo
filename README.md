@@ -3,7 +3,7 @@
 </div>
 <img src="https://certitec.eu/wp-content/uploads/2023/03/OOT.jpg">
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/CarlosHerazo)
+[![GitHub followers]()](https://github.com/CarlosHerazo)
 
 ## Sobre mi
 
