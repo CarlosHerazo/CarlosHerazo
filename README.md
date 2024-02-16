@@ -3,7 +3,7 @@
 </div>
 <img src="https://certitec.eu/wp-content/uploads/2023/03/OOT.jpg">
 
-[![GitHub followers]()](https://github.com/CarlosHerazo)
+[![GitHub followers](https://github.com/CarlosHerazo/CarlosHerazo/blob/main/Banner.png)](https://github.com/CarlosHerazo)
 
 ## Sobre mi
 
