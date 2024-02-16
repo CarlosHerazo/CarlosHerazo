@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/CarlosHerazo">HerazoDev</a> 👋</h1>
 </div>
-<img src="https://certitec.eu/wp-content/uploads/2023/03/OOT.jpg">
+<img src="[https://certitec.eu/wp-content/uploads/2023/03/OOT.jpg](https://github.com/CarlosHerazo/CarlosHerazo/)">
 
-[![GitHub followers](https://github.com/CarlosHerazo/CarlosHerazo/blob/main/Banner.png)](https://github.com/CarlosHerazo)
+[![GitHub followers]()](https://github.com/CarlosHerazo)
 
 ## Sobre mi
 
