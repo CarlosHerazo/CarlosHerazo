@@ -46,7 +46,7 @@
 
 <div align="center" style="margin: 20px auto;">
     <div style="width: 250px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-        <img align="right" alt="GIF" src="https://i.ibb.co/xXfpmZg/foto-pelicula.jpg" width="400" height="280" />
+        <img src="https://i.ibb.co/kq00NrC/foto-pelicula.jpg" width="400" height="280" />
         <div style="padding: 15px;">
             <h2 style="font-size: 16px; font-weight: bold; margin: 10px 0;">Proyecto Destacado</h2>
             <p style="font-size: 12px; color: #555; margin: 10px 0;">Proyecto de película a base de React para el front y Flask para el back, utilizando la API de DBmovies.</p>
