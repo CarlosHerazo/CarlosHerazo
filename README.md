@@ -45,15 +45,16 @@
 ## Proyectos *bombitas*
 
 <div align="center" style="margin: 20px auto;">
-    <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-        <img src="https://i.ibb.co/xXfpmZg/foto-pelicula.jpg" alt="Proyecto Pelicula" style="width: 100%;">
+    <div style="width: 250px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+        <img src="https://i.ibb.co/xXfpmZg/foto-pelicula.jpg" alt="Proyecto Pelicula" style="width: 100%; height: auto; object-fit: cover;">
         <div style="padding: 15px;">
-            <h2 style="font-size: 18px; font-weight: bold; margin: 10px 0;">Proyecto Destacado</h2>
-            <p style="font-size: 14px; color: #555; margin: 10px 0;">Proyecto de pelicula a base de react para el front y flask para el back utilizando la api de DBmovies.</p>
-            <a href="https://peliculashz.vercel.app/" style="display: inline-block; padding: 10px 15px; background-color: #007BFF; color: #fff; text-decoration: none; border-radius: 4px;">Ver sitio</a>
+            <h2 style="font-size: 16px; font-weight: bold; margin: 10px 0;">Proyecto Destacado</h2>
+            <p style="font-size: 12px; color: #555; margin: 10px 0;">Proyecto de película a base de React para el front y Flask para el back, utilizando la API de DBmovies.</p>
+            <a href="https://peliculashz.vercel.app/" style="display: inline-block; padding: 8px 12px; background-color: #007BFF; color: #fff; text-decoration: none; border-radius: 4px;">Ver sitio</a>
         </div>
     </div>
 </div>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
