@@ -47,25 +47,8 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="[![foto-pelicula.jpg](https://i.postimg.cc/SRH9w7gp/foto-pelicula.jpg)](https://postimg.cc/V0B5tMy7)" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<br>
+<h3 align="center">Proyecto de Películas - React y Flask con API de TMDb</h3>
 <div align="center">                                       
 <a href="https://peliculashz.vercel.app/" target="_blank"><img src="https://i.postimg.cc/SRH9w7gp/foto-pelicula.jpg" width="400" alt="Web de pelicula"></a>
 <br>
@@ -75,7 +58,10 @@
 </a>
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+   
+</p>
+<h3>Descripción del Proyecto:</h3>
+El objetivo principal de esta aplicación es ofrecer a los usuarios una plataforma donde puedan explorar una amplia variedad de películas, obtener detalles completos sobre cada una y descubrir nuevas películas basadas en sus intereses. La integración con la API de TMDb permite acceder a información actualizada y precisa sobre películas, incluyendo sinopsis, calificaciones, géneros, y más.</p>
 </div>                                                             
 </table>  
 
