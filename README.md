@@ -49,7 +49,7 @@
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="[![foto-pelicula.jpg](https://i.postimg.cc/SRH9w7gp/foto-pelicula.jpg)](https://postimg.cc/V0B5tMy7)" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
