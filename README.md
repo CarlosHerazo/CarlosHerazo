@@ -46,7 +46,7 @@
 
 <div align="center" style="margin: 20px auto;">
     <div style="width: 300px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-        <img src="[https://via.placeholder.com/300x150](https://ibb.co/xXfpmZg)" alt="Proyecto Pelicula" style="width: 100%;">
+        <img src="https://ibb.co/xXfpmZg" alt="Proyecto Pelicula" style="width: 100%;">
         <div style="padding: 15px;">
             <h2 style="font-size: 18px; font-weight: bold; margin: 10px 0;">Proyecto Destacado</h2>
             <p style="font-size: 14px; color: #555; margin: 10px 0;">Este es un breve resumen del contenido o propósito del repositorio.</p>
