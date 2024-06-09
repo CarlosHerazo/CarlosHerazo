@@ -67,7 +67,7 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://peliculashz.vercel.app/" target="_blank"><img src="https://i.ibb.co/5FF5Y06/foto-pelicula.jpg width="400" alt="Web de pelicula"></a>
+<a href="https://peliculashz.vercel.app/" target="_blank"><img src="https://i.postimg.cc/SRH9w7gp/foto-pelicula.jpg" width="400" alt="Web de pelicula"></a>
 <br>
 <p>
 <a href="https://github.com/CarlosHerazo/ApiPeliculas" target="_blank">
