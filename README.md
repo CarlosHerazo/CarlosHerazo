@@ -49,8 +49,8 @@
         <img src="https://ibb.co/xXfpmZg" alt="Proyecto Pelicula" style="width: 100%;">
         <div style="padding: 15px;">
             <h2 style="font-size: 18px; font-weight: bold; margin: 10px 0;">Proyecto Destacado</h2>
-            <p style="font-size: 14px; color: #555; margin: 10px 0;">Este es un breve resumen del contenido o propósito del repositorio.</p>
-            <a href="https://github.com/tu-repositorio" style="display: inline-block; padding: 10px 15px; background-color: #007BFF; color: #fff; text-decoration: none; border-radius: 4px;">Ir al Repositorio</a>
+            <p style="font-size: 14px; color: #555; margin: 10px 0;">Proyecto de pelicula a base de react para el front y flask para el back utilizando la api de DBmovies.</p>
+            <a href="https://peliculashz.vercel.app/" style="display: inline-block; padding: 10px 15px; background-color: #007BFF; color: #fff; text-decoration: none; border-radius: 4px;">Ver sitio</a>
         </div>
     </div>
 </div>
